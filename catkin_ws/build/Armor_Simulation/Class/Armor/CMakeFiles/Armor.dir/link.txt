@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libArmor.so -o /home/rosen/ROS/catkin_ws/devel/lib/libArmor.so CMakeFiles/Armor.dir/Armor.cpp.o 
